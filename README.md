@@ -1,5 +1,5 @@
 # hello_world
-ovo je prvi projekat
+This is first project
 
-Projekat je na github repozitorijumu i bice jos 
-uradjene neke stvari.Ovo je proba.
+In this project, only test of github functionality
+is performed.
